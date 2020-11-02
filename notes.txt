@@ -1,0 +1,1 @@
+headerShown: false stops the header from being there
